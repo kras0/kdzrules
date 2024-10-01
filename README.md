@@ -1,3 +1,46 @@
-# kdzrules
+---
+noIndex: true
+icon: hand-wave
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
 
-Правила для групи "клас диких звірів"
+# Вітання!
+
+Вітаємо тебе на головній сторінці правил групи "Клас Диких Звірів".
+
+## Посилання:
+
+{% content-ref url="important/punishment.md" %}
+[punishment.md](important/punishment.md)
+{% endcontent-ref %}
+
+{% content-ref url="important/rules.md" %}
+[rules.md](important/rules.md)
+{% endcontent-ref %}
+
+{% content-ref url="important/question.md" %}
+[question.md](important/question.md)
+{% endcontent-ref %}
+
+## Останнє оновлення:
+
+{% hint style="info" %}
+Дата:
+
+04.10.2024
+
+Час:
+
+17:25
+{% endhint %}
+
