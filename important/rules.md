@@ -1,6 +1,6 @@
 ---
-description: Кожне правила розділене на рівні.
 icon: book-heart
+description: Кожне правила розділене на рівні.
 layout:
   title:
     visible: true
@@ -17,7 +17,9 @@ layout:
 # Правила
 
 {% hint style="info" %}
-Останній раз оновлено правила: 04.10.2024 о 17:25 (UTC+3)\
+Останній раз оновлено правила:&#x20;
+
+04.10.2024 о 17:25 (UTC+3)\
 \
 <mark style="color:red;">**Все що нижче написано є забороненим!**</mark>
 {% endhint %}
@@ -38,7 +40,7 @@ layout:
 {% tab title="Середній рівень" %}
 <mark style="color:yellow;">**2.1**</mark>: [Обман](https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BC%D0%B0%D0%BD) учасників
 
-<mark style="color:yellow;">**2.2**</mark>: Не знущайся над іншими учасниками. Будь-який вид [булінгу](https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%B1%D0%B5%D1%80%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3), [шантажу](https://uk.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD%D1%82%D0%B0%D0%B6) або [приниження](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D0%B8%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F) недопустимий.
+<mark style="color:yellow;">**2.2**</mark>: Не знущайся над іншими учасниками. Будь-який вид [кібербулінгу](https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%B1%D0%B5%D1%80%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3), [шантажу](https://uk.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD%D1%82%D0%B0%D0%B6) або [приниження](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D0%B8%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F) недопустимий.
 
 <mark style="color:yellow;">**2.3**</mark>: Згадувати про рідних людей учасника(-ів) групи
 
@@ -58,7 +60,7 @@ layout:
 
 <mark style="color:red;">**3.2**</mark>: [Дискримінація](https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B8%D0%BC%D1%96%D0%BD%D0%B0%D1%86%D1%96%D1%8F) за сексуальною орієнтацією, гендерною індентичності (статевими), та інвалідністю
 
-<mark style="color:red;">**3.3**</mark>: Пропаганда [фашизму](https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%88%D0%B8%D0%B7%D0%BC), [комунізму](https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D1%83%D0%BD%D1%96%D0%B7%D0%BC), [тероризму](https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BE%D1%80%D0%B8%D0%B7%D0%BC) та інших екстремістських ідеологій
+<mark style="color:red;">**3.3**</mark>: Пропаганда [фашизму](https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%88%D0%B8%D0%B7%D0%BC), [комунізму](https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D1%83%D0%BD%D1%96%D0%B7%D0%BC), [тероризму](https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BE%D1%80%D0%B8%D0%B7%D0%BC) та інших [екстремістських ідеологій](https://uk.wikipedia.org/wiki/%D0%95%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BC%D1%96%D0%B7%D0%BC)
 
 <mark style="color:red;">**3.4**</mark>: Публікувати контент який пов'язаний з [азартними іграми](https://uk.wikipedia.org/wiki/%D0%90%D0%B7%D0%B0%D1%80%D1%82%D0%BD%D1%96\_%D1%96%D0%B3%D1%80%D0%B8)
 
