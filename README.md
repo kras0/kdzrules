@@ -1,6 +1,6 @@
 ---
-noIndex: true
 icon: hand-wave
+noIndex: true
 layout:
   title:
     visible: true
@@ -41,6 +41,6 @@ layout:
 
 Час:
 
-17:25
+10:23
 {% endhint %}
 

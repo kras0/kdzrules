@@ -1,6 +1,6 @@
 ---
-description: Покарання за порушення правил групи
 icon: theta
+description: Покарання за порушення правил групи
 layout:
   title:
     visible: true
@@ -87,7 +87,7 @@ layout:
 {% hint style="info" %}
 Оновлено:
 
-04.10.2024 (17:25)\
+04.10.2024 (10:23)\
 \
 **Є запитання щодо покарань?**\
 Пиши: [@vchyt\_bot](https://t.me/vchyt\_bot)
