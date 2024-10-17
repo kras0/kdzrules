@@ -20,6 +20,19 @@ layout:
 <mark style="color:red;">**Ми не рекомендуємо обходити покарання через інші акаунти!**</mark>
 {% endhint %}
 
+{% hint style="info" %}
+Оновлено:
+
+04.10.2024 (10:23)\
+\
+**Є запитання щодо покарань?**\
+Пиши: [@vchyt\_bot](https://t.me/vchyt\_bot)
+{% endhint %}
+
+<mark style="color:yellow;">**Покарання для максимального рівня та більшості середнього рівня є відсутніми.**</mark>
+
+<mark style="color:yellow;">**Тому адміністрація приймає рішення на свій погляд.**</mark>
+
 {% tabs %}
 {% tab title="Мінімальний рівень" %}
 <mark style="color:green;">**1.1:**</mark>
@@ -83,12 +96,3 @@ layout:
 * мут на 3 години 48 хвилин
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-Оновлено:
-
-04.10.2024 (10:23)\
-\
-**Є запитання щодо покарань?**\
-Пиши: [@vchyt\_bot](https://t.me/vchyt\_bot)
-{% endhint %}

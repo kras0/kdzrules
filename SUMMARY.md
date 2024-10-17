@@ -11,6 +11,7 @@
 ## комітет безпеки <a href="#commission" id="commission"></a>
 
 * [Скарга на порушника](commission/report.md)
+* [Апеляція порушення](commission/apelyaciya-porushennya.md)
 * [Голосування в вчительській](commission/vote.md)
 
 ***

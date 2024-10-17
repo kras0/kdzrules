@@ -32,15 +32,15 @@ layout:
 [question.md](important/question.md)
 {% endcontent-ref %}
 
-## Останнє оновлення:
+## Останнє оновлення сайту:
 
 {% hint style="info" %}
 Дата:
 
-04.10.2024
+17.10.2024
 
 Час:
 
-10:23
+16:50
 {% endhint %}
 
