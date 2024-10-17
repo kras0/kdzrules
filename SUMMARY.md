@@ -4,7 +4,7 @@
 
 ## Важливе <a href="#important" id="important"></a>
 
-* [Правила](important/rules.md)
+* [Правила](important/pra.md)
 * [Покарання](important/punishment.md)
 * [Запитання](important/question.md)
 

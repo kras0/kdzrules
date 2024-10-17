@@ -24,8 +24,8 @@ layout:
 [punishment.md](important/punishment.md)
 {% endcontent-ref %}
 
-{% content-ref url="important/rules.md" %}
-[rules.md](important/rules.md)
+{% content-ref url="important/pra.md" %}
+[pra.md](important/pra.md)
 {% endcontent-ref %}
 
 {% content-ref url="important/question.md" %}
