@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Вітання!](README.md)
+* [Головна](README.md)
 
 ## Важливе <a href="#important" id="important"></a>
 
 * [Правила](important/pra.md)
 * [Покарання](important/punishment.md)
-* [Запитання](important/question.md)
+* [Запитання](https://klas.gitbook.io/#mozlivi-zapitannya)
 
 ## комітет безпеки <a href="#commission" id="commission"></a>
 
