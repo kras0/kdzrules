@@ -6,7 +6,7 @@
 
 * [Правила](important/pra.md)
 * [Покарання](important/punishment.md)
-* [Запитання](https://klas.gitbook.io/#mozlivi-zapitannya)
+* [Запитання](https://klas.gitbook.io/rules#mozhlivi-zapitannya)
 
 ## комітет безпеки <a href="#commission" id="commission"></a>
 
